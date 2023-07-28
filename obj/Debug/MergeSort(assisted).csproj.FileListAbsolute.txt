@@ -1,0 +1,8 @@
+C:\data\MergeSort(assisted)\MergeSort(assisted)\bin\Debug\MergeSort(assisted).exe.config
+C:\data\MergeSort(assisted)\MergeSort(assisted)\bin\Debug\MergeSort(assisted).exe
+C:\data\MergeSort(assisted)\MergeSort(assisted)\bin\Debug\MergeSort(assisted).pdb
+C:\data\MergeSort(assisted)\MergeSort(assisted)\obj\Debug\MergeSort(assisted).csproj.AssemblyReference.cache
+C:\data\MergeSort(assisted)\MergeSort(assisted)\obj\Debug\MergeSort(assisted).csproj.SuggestedBindingRedirects.cache
+C:\data\MergeSort(assisted)\MergeSort(assisted)\obj\Debug\MergeSort(assisted).csproj.CoreCompileInputs.cache
+C:\data\MergeSort(assisted)\MergeSort(assisted)\obj\Debug\MergeSort(assisted).exe
+C:\data\MergeSort(assisted)\MergeSort(assisted)\obj\Debug\MergeSort(assisted).pdb
